@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    border: solid;
+    background-color: black;
+}
+
+#Apps{
+    background-color: blue;
+    border: solid;
+    border-width: 10px;
+    border-radius: 10px;
+}
+#Games{
+    background-color: royalblue;
+    border: solid;
+    border-width: 10px;
+    border-radius: 10px;
+}
+
+#Chatbots{
+    background-color: cyan;
+    border: solid;
+    border-width: 10px;
+    border-radius: 10px;
+}
